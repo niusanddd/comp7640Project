@@ -1,6 +1,5 @@
 from app.services.vendor_service import VendorService
 
-
 def main_cli():
     vendor_service = VendorService()
     while True:
